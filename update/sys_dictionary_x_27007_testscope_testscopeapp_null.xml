@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_27007_testscope_testscopeapp">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_27007_testscope_testscopeapp">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -31,6 +31,8 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,17 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>rajeshm</sys_created_by>
         <sys_created_on>2017-07-28 08:14:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>2fd8d1a44f500300912c22d18110c776</sys_id>
+        <sys_id>a711131737211300ef4eae7873990e0d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_27007_testscope_testscopeapp</sys_name>
         <sys_package display_value="TestScope" source="x_27007_testscope">9e1795204f100300912c22d18110c7a1</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestScope">9e1795204f100300912c22d18110c7a1</sys_scope>
-        <sys_update_name>sys_dictionary_x_27007_testscope_testscopeapp_null</sys_update_name>
-        <sys_updated_by>rajeshm</sys_updated_by>
-        <sys_updated_on>2017-07-28 08:14:45</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_27007_testscope_testscopeapp_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-24 05:33:05</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

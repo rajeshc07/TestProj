@@ -17,19 +17,17 @@
         <number_ref/>
         <provider_class/>
         <read_access>false</read_access>
-        <super_class display_value="Task" name="task">7965e3a78c21320092c0afb9ff6cd4d2</super_class>
+        <super_class display_value="Task" name="task">c07df166b92013006517ce7df7ee46cb</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>rajeshm</sys_created_by>
         <sys_created_on>2017-07-28 08:14:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>b27811a44f500300912c22d18110c719</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TestScopeApp</sys_name>
         <sys_package display_value="TestScope" source="x_27007_testscope">9e1795204f100300912c22d18110c7a1</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestScope">9e1795204f100300912c22d18110c7a1</sys_scope>
         <sys_update_name>sys_db_object_b27811a44f500300912c22d18110c719</sys_update_name>
         <sys_updated_by>rajeshm</sys_updated_by>

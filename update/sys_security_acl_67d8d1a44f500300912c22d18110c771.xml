@@ -12,13 +12,11 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>rajeshm</sys_created_by>
         <sys_created_on>2017-07-28 08:14:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>67d8d1a44f500300912c22d18110c771</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_27007_testscope_testscopeapp</sys_name>
         <sys_package display_value="TestScope" source="x_27007_testscope">9e1795204f100300912c22d18110c7a1</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestScope">9e1795204f100300912c22d18110c7a1</sys_scope>
         <sys_update_name>sys_security_acl_67d8d1a44f500300912c22d18110c771</sys_update_name>
         <sys_updated_by>rajeshm</sys_updated_by>
